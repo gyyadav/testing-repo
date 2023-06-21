@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>testing-yamini</description>
+        <device_type>browser</device_type>
+        <hint>testing-yamini</hint>
+        <name/>
+        <order/>
+        <roles>activity_creator</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>yamini.yadav</sys_created_by>
+        <sys_created_on>2023-06-21 08:48:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b101523d47232110643cd921236d4327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testing-repo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testing-repo" source="x_566027_testing_r">0b20123d47232110643cd921236d4363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testing-repo">0b20123d47232110643cd921236d4363</sys_scope>
+        <sys_update_name>sys_app_application_b101523d47232110643cd921236d4327</sys_update_name>
+        <sys_updated_by>yamini.yadav</sys_updated_by>
+        <sys_updated_on>2023-06-21 08:48:09</sys_updated_on>
+        <title>testing-repo</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
